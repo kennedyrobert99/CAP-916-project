@@ -1,0 +1,6 @@
+ setTimeout(() => alert("Your ride is on the way in 3 minutes"), 1000);
+      setTimeout(() => alert("Your ride is on the way in 2 minutes"), 2000);
+      setTimeout(() => alert("Your ride is on the way in 4 minutes"), 3000);
+      setTimeout(() => alert("Your ride is on the way in 5 minutes"), 4000);
+      e.target.reset();
+    });
